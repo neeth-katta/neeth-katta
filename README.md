@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neeth-katta
 - 👀 I’m interested in web devlopment, python coding
-- 🌱 I’m currently learning to be a full stack developer and also learning python programming along with it.
-- 💞️ I’m looking to collaborate on, hmm, honestly? I am not sure since I'm still a beginner but would love to read codes and understand.
+- 🌱 I’m early career software engineer and working as a project engineer in the field of autonomous guided vehicles.
+- 💞️ I’m looking to collaborate on different full stack projects as a freelancer or work on open source projects.
 - 📫 How to reach me you could reach me on github or Twitter @AbhineethKatta
 
 <!---
